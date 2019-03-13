@@ -2,7 +2,7 @@
 // TODO: Missing Firebase Config
 firebase.initializeApp(config);
 this.firebaseToken = document.querySelector("#firebase-token");
-this.firebaseToken.innerHTML = "Welcome !";
+this.firebaseToken.innerHTML = "WELCOME TO FIREBASE";
 
 
 // User SignUp

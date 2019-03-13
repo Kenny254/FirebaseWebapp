@@ -24,6 +24,8 @@ function authRegister(event) {
     })
 }
 
+
+
 // User SignIn
 function authLogin(event) {
   event.preventDefault();
